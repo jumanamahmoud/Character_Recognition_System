@@ -75,7 +75,7 @@ def text_to_speech(text, filename="prediction_audio.mp3"):
     return filename
 
 # ===== Streamlit App =====
-st.title("📝 Handwritten Character Reader (CRNN + CTC)")
+st.title("📝 Character Recognition System (CRNN + CTC)")
 st.write("Upload an image of a word (printed) and let the model try to read it.")
 
 uploaded_file = st.file_uploader("Upload image", type=["png", "jpg", "jpeg"])
