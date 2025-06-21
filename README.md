@@ -1,1 +1,1 @@
-# VIDSS
+# Character_Recognition_System
