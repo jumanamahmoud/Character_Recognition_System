@@ -18,6 +18,7 @@ It then converts those characters into voice. This repository does not include t
 4. The code also trains the model and saves its state/weights in the crnn_model.pth pytorch file for usage later.
 5. Run "streamlit run app.py" in the correct directory on a new terminal page to open the webpage.
 6. You can now upload images to the system.
+   
 Note: This repo does not have the old system (HDRS).
 
 
